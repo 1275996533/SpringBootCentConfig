@@ -1,2 +1,2 @@
 config:
-    - 这是dev环境的配置文件
+  info: 这是dev的配置文件
