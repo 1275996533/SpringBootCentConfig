@@ -1,2 +1,2 @@
-config
-    - 这是test环境的配置文件
+config:
+    - 这是test的配置文件
